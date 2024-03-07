@@ -1,0 +1,144 @@
+1 Find all average of scores grouped by drivers.,,
+driver_name,Sum of average_of_scores,
+Career Growth,2.82,
+Company Policies,2.76,
+Manager Support,2.82,
+Role Clarity,2.75,
+Grand Total,11.15,
+,,
+2 Find all scores by department and driver combination,,
+,,
+department,driver_name2,Sum of scores 2
+Engineering,,36
+,Career Growth,7
+,Company Policies,14
+,Manager Support,9
+,Role Clarity,6
+Finance,,7
+,Career Growth,1
+,Company Policies,3
+,Role Clarity,3
+Marketing,,30
+,Career Growth,7
+,Company Policies,8
+,Manager Support,9
+,Role Clarity,6
+Operations,,17
+,Career Growth,3
+,Company Policies,6
+,Manager Support,5
+,Role Clarity,3
+Sales,,26
+,Career Growth,7
+,Company Policies,8
+,Manager Support,4
+,Role Clarity,7
+Support,,36
+,Career Growth,9
+,Company Policies,11
+,Manager Support,7
+,Role Clarity,9
+Grand Total,,152
+,,
+,,
+3 Find all scores by location and driver combination,,
+,,
+driver_name3,gender,Sum of scores 3
+Career Growth,,34
+,Female,14
+,Male,20
+Company Policies,,50
+,Female,15
+,Male,35
+Manager Support,,34
+,Female,19
+,Male,15
+Role Clarity,,34
+,Female,19
+,Male,15
+Grand Total,,152
+,,
+4   Find all scores by gender and driver,,
+location,driver_name4,Sum of scores 4
+Bangalore,,60
+,Career Growth,17
+,Company Policies,24
+,Manager Support,9
+,Role Clarity,10
+Mumbai,,38
+,Career Growth,2
+,Company Policies,18
+,Manager Support,10
+,Role Clarity,8
+San Francisco,,54
+,Career Growth,15
+,Company Policies,8
+,Manager Support,15
+,Role Clarity,16
+Grand Total,,152
+,,
+"5  Find all scores by age group 20-30, 30-40,40-50",,
+age_group,Sum of total_score,
+20-30,49,
+30-40,28,
+40-50,75,
+Grand Total,152,
+,,
+6  Find all scores by managers (ensure manager name is there),,
+Manager Name,Sum of scores 6,
+Aida Jacobi,4,
+Alfred Okuneva,3,
+Annabelle Kuhic,1,
+Annika Ward,2,
+Bari Kunde,1,
+Becky Rempel,3,
+Brooks Hilll,2,
+Demetrius Hahn,5,
+Diann Erdman,5,
+Donnell Balistreri,1,
+Evonne Grant,2,
+Fern Stroman,2,
+Gerardo Gulgowski,1,
+Gudrun Price,5,
+Jacquelyn Hahn,1,
+Jeff Bechtelar,2,
+Joyce Rau,3,
+Joycelyn Halvorson,3,
+Kandra Lakin,2,
+Kimberley Jacobi,4,
+Kyung Kub,1,
+Leila Lemke,1,
+Lesley Farrell,2,
+Lilia Hickle,1,
+Magdalena Bergnaum,4,
+Magnolia Kohler,1,
+Malika Deckow,3,
+Manie Halvorson,4,
+Marhta Johnston,1,
+Marie Schroeder,3,
+Martina Feil,3,
+Mohammed Corkery,5,
+Natashia Windler,4,
+Nicholas Ankunding,1,
+Nigel Ritchie,4,
+Nikole Kulas,1,
+Nikole Streich,2,
+Nobuko Dach,2,
+Olinda Heidenreich,4,
+Phylicia Streich,2,
+Raylene Mueller,5,
+Remedios Baumbach,4,
+Rina Gerhold,5,
+Rusty Raynor,3,
+Sage Beier,2,
+Salena Upton,3,
+Sharlene Gerlach,2,
+Shirley Crist,4,
+Solomon Fritsch,1,
+Sonya Beier,3,
+Stanton Daniel,1,
+Theodora Hahn,4,
+Veda Prosacco,5,
+Vernon Hudson,4,
+Yuette Morar,5,
+Grand Total,152,
